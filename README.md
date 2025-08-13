@@ -465,6 +465,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 - [vite-plugin-csp-guard](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
 - [vite-plugin-csp](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
+- [vite-plugin-sri-gen](https://github.com/rbonestell/vite-plugin-sri-gen) - Lightweight Vite plugin that automatically generates and injects Subresource Integrity hashes to secure your built assets against tampering.
 
 <hr>
 
